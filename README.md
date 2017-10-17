@@ -16,14 +16,14 @@ My Answer for Coding Challange 3 JS  (DOM IMPLEMENTATION)
 # 	Your 3 Challenges
 	Change the game to follow these rules:
 
-	1.  A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's 
+1.  A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's 
 	turn. (Hint: always save the previous dice roll in a separate variable)
 	
-  2.  Add an input field to the HTML where players can set the winning score, so that they can change the 
+2.  Add an input field to the HTML where players can set the winning score, so that they can change the 
 	predefined score of 100. (Hint: you can read that value with the .value property in JavaScript. This
 	is a good oportuniaty to use google to figure this out :)
 	
-  3.  Add another dice to the game, so that there are two dices now. They player looses his current score
+3.  Add another dice to the game, so that there are two dices now. They player looses his current score
 	when one of them is a 1. (Hint you will need CSS to position the second dice, so take a look at the CSS
 	code for the first one)
 
